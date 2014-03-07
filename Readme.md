@@ -1,4 +1,4 @@
-Just a simple proxy base on Node.js
+Just a simple proxy base on Node.js  //简单的代理软件.基于Node的”http-proxy“实现.
 
 Require "http-proxy" 
 
